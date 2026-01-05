@@ -1,0 +1,1 @@
+copy all your media from whatsapp exported chat unzip folder excluding the txt file and paste in the Media folder ,there is no need of this instructions.txt fie t is just for instructions
